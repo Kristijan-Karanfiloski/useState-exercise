@@ -1,0 +1,2 @@
+*{margin:0;padding:0}body{background-color:#1e293b;justify-content:center;min-height:100vh}.center,body{align-items:center;display:flex}.center{height:400px;justify-content:space-evenly;width:400px}button{cursor:pointer}button,span{border:none;border-radius:50%;font-size:2rem;padding:2.5rem}span{background-color:#f5f5f5}.plus{background:gray;color:#000;z-index:1}.minus{background:#000;color:#f5f5f5;z-index:1}
+/*# sourceMappingURL=main.33a4810f.css.map*/

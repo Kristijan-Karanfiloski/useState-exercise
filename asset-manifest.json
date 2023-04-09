@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useState-exercise/static/css/main.33a4810f.css",
+    "main.js": "/useState-exercise/static/js/main.1fb86c0f.js",
+    "index.html": "/useState-exercise/index.html",
+    "main.33a4810f.css.map": "/useState-exercise/static/css/main.33a4810f.css.map",
+    "main.1fb86c0f.js.map": "/useState-exercise/static/js/main.1fb86c0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33a4810f.css",
+    "static/js/main.1fb86c0f.js"
+  ]
+}
